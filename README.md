@@ -5,10 +5,6 @@
 
 *I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.*
 
-<br>
-
-<img src="./pet.svg" alt="Pet" />
-
 </div>
 
 ---
@@ -54,7 +50,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></b></h2>
       <p>A complete telemedicine platform bridging the gap for rural healthcare. Features AI symptom checking, offline access, and multilingual support.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -64,7 +60,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></b></h2>
       <p>An automated placement cell platform with an AI-powered resume builder. Streamlines hiring with automated scheduling and verification.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -75,8 +71,8 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></h3>
+    <td colspan="2" valign="top">
+      <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
       <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -84,7 +80,6 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -93,7 +88,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></b></h2>
       <p>See exactly what your installed extensions can access and do. Everything is computed on your device — nothing is ever shared.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -101,7 +96,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></b></h2>
       <p>The ultimate YouTube study companion. Snap frames, take rich notes, and organize everything completely locally.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -118,7 +113,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></b></h2>
       <p>Custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU. Full schematic capture, component selection, routing, and manufacturing files.</p>
       <p>
         <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
@@ -127,7 +122,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></b></h2>
       <p>Complete Altium Designer project for a classic LED chaser circuit — full schematic, PCB layout, and manufacturing files using a 555 Timer and CD4017.</p>
       <p>
         <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
@@ -143,7 +138,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></b></h2>
       <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates without using any built-in operators — synthesized for FPGA.</p>
       <p>
         <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
@@ -161,7 +156,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></h3>
+      <h2><b><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></b></h2>
       <p>Computational environment for rigorous manipulation and visualization of audio waveforms. Utilizes advanced Fourier transforms and phase vocoding algorithms for real-time spectral modification.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -184,5 +179,17 @@
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
   <img alt="3D Contribution City" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## Contact Me
+
+<a href="mailto:ritviz.aggarwal@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/ritvizaggarwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </div>
