@@ -3,11 +3,10 @@
 # Hi, I'm Ritviz Aggarwal
 ### Electronics Engineer & Software Developer
 
-*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions. I truly enjoy engineering robust systems from the ground up—whether that means synthesizing custom digital logic gates or architecting intelligent, AI-integrated software solutions.*
+*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions. I truly enjoy engineering robust systems from the ground up—whether that means synthesizing custom digital logic gates or building intelligent, AI-integrated software solutions.*
 
 <br>
 
-<!-- Virtual Pet — feeds on your commits, updates every 6 hours -->
 <img src="./pet.svg" alt="My Pet" />
 
 </div>
@@ -52,59 +51,81 @@
 
 #### Web & App Platforms
 
-<p>
-  <a href="https://github.com/Rizz-Vizz/Nabha-Sihata">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=Nabha-Sihata&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  </a>
-  <a href="https://github.com/Rizz-Vizz/Campusthan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=Campusthan&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/Rizz-Vizz/StockSwap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=StockSwap&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></h4>
+      <p>A complete telemedicine platform bridging the gap for rural healthcare. Features AI symptom checking, offline access, and multilingual support.</p>
+      <p><code>TypeScript</code> &nbsp; <code>React Native</code> &nbsp; <code>Supabase</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></h4>
+      <p>An automated placement cell platform with an AI-powered resume builder. Streamlines hiring with automated scheduling and verification.</p>
+      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Node.js</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></h4>
+      <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
+      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Supabase</code></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 #### Chrome Extensions
 
-<p>
-  <a href="https://github.com/Rizz-Vizz/privacy-xray">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=privacy-xray&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  </a>
-  <a href="https://github.com/Rizz-Vizz/StudySnap-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=StudySnap-Pro&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></h4>
+      <p>See exactly what your installed extensions can access and do. Everything is computed on your device — nothing is ever shared.</p>
+      <p><code>JavaScript</code> &nbsp; <code>Chrome API</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></h4>
+      <p>The ultimate YouTube study companion. Snap frames, take rich notes, and organize everything completely locally.</p>
+      <p><code>JavaScript</code> &nbsp; <code>Chrome API</code></p>
+    </td>
+  </tr>
+</table>
 
 ### Hardware Engineering
 
 #### PCB Design & Embedded Systems
 
-<p>
-  <a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=stm32f411-dev-board&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=4ade80&text_color=c0caf5&icon_color=4ade80" />
-  </a>
-  <a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=LED-Chaser-PCB-Design&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=4ade80&text_color=c0caf5&icon_color=4ade80" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></h4>
+      <p>Custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU. Full design lifecycle in Altium Designer.</p>
+      <p><code>Altium Designer</code> &nbsp; <code>STM32</code> &nbsp; <code>ARM Cortex-M4</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></h4>
+      <p>Complete Altium Designer project for an LED chaser circuit — full schematic, PCB layout, and manufacturing files using a 555 Timer.</p>
+      <p><code>Altium Designer</code> &nbsp; <code>555 Timer</code> &nbsp; <code>CD4017</code></p>
+    </td>
+  </tr>
+</table>
 
 #### Digital Logic / RTL
 
-<p>
-  <a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=Hardware-Neural-MAC&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=4ade80&text_color=c0caf5&icon_color=4ade80" />
-  </a>
-</p>
-
-#### Signal Processing
-
-<p>
-  <a href="https://github.com/Rizz-Vizz/dsp-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizz-Vizz&repo=dsp-platform&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=4ade80&text_color=c0caf5&icon_color=4ade80" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></h4>
+      <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates for FPGA synthesis.</p>
+      <p><code>Verilog</code> &nbsp; <code>FPGA</code> &nbsp; <code>Yosys</code> &nbsp; <code>Icarus Verilog</code></p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></h4>
+      <p>Computational environment for rigorous manipulation and visualization of audio waveforms using Fourier transforms and phase vocoding.</p>
+      <p><code>Python</code> &nbsp; <code>DSP</code> &nbsp; <code>Fourier Analysis</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -112,8 +133,10 @@
 
 ## Sign My Guestbook
 
-*If you stopped by, leave a note!*
+*Came across my profile? Leave a note below.*
 
-[![Sign Guestbook](https://img.shields.io/badge/Sign_My_Guestbook-%E2%9C%8D%EF%B8%8F_Leave_a_note-7aa2f7?style=for-the-badge&labelColor=0f0f1a)](https://github.com/Rizz-Vizz/Rizz-Vizz/issues/new?title=Guestbook+%E2%80%94+%5BYour+Name%5D&body=%23%23+Hi+Ritviz%21%0A%0AI+came+across+your+profile+and+wanted+to+say%3A%0A%0A_Your+message+here_)
+<br>
+
+[![Sign Guestbook](https://img.shields.io/badge/-%E2%80%8B%20Sign%20My%20Guestbook%20%E2%80%8B-0f0f1a?style=for-the-badge&color=0f0f1a&labelColor=7aa2f7)](https://github.com/Rizz-Vizz/Rizz-Vizz/issues/new?title=Guestbook+%E2%80%94+%5BYour+Name%5D&body=%23%23+Hi+Ritviz%21%0A%0AI+came+across+your+profile+and+wanted+to+say%3A%0A%0A_Your+message+here_)
 
 </div>

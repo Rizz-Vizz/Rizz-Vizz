@@ -1,50 +1,6 @@
 {
-  "schemaVersion": 2,
-  "active": "yuki",
-  "pets": {
-    "yuki": {
-      "name": "Mochi",
-      "species": "yuki",
-      "isGhost": false,
-      "lockedSpecies": "",
-      "stage": "egg",
-      "bornAt": "2026-07-17T16:19:05.471Z",
-      "lastTickAt": "2026-07-17T16:19:05.471Z",
-      "fullness": 100,
-      "happiness": 100,
-      "stamina": 58,
-      "mood": "happy",
-      "note": {
-        "code": "happy_active",
-        "days": 0,
-        "at": "2026-07-17T16:19:05.471Z"
-      },
-      "log": [
-        {
-          "code": "happy_active",
-          "days": 0,
-          "at": "2026-07-17T16:19:05.471Z"
-        }
-      ],
-      "celebration": {
-        "kind": "streak",
-        "milestoneId": "streak:7",
-        "title": "7일 연속",
-        "detail": "7일 연속 기여를 달성했어요"
-      },
-      "celebratedMilestones": [
-        "streak:7"
-      ],
-      "ageDays": 0,
-      "lastDayDate": "2026-07-17",
-      "lastDayCounted": 15,
-      "visitorInteractions": {}
-    }
-  },
-  "dex": {
-    "yuki": {
-      "firstSeenAt": "2026-07-17T16:19:05.471Z",
-      "maxStage": "egg"
-    }
-  }
+  "days_alive": 1,
+  "last_run": "2026-07-17",
+  "streak": 0,
+  "high_streak": 0
 }
