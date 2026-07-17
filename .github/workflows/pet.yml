@@ -1,0 +1,20 @@
+name: Update GitGotchi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-pet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: GitGotchi Action
+        uses: mofig/gitgotchi@v1.0.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pet_type: "cat" # You can change this to 'dragon' or 'ghost'
+          commit_message: "chore: update virtual pet"
