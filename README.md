@@ -9,6 +9,8 @@
 
 *I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.*
 
+> 🖋️ *Beyond the world of engineering and code, I am also a published author and a poet.*
+
 </div>
 
 ## My Toolkit
