@@ -1,21 +1,32 @@
-name: commitchi
+name: Update Pet
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "0 */6 * * *"   # Every 6 hours
   workflow_dispatch: {}
 
-permissions: { contents: write }
-
-concurrency:
-  group: commitchi-pet-state
-  cancel-in-progress: false
+permissions:
+  contents: write
 
 jobs:
-  commitchi:
+  update-pet:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: vanilalatte03/commitchi@v1
-        with: 
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate pet SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_pet.py
+
+      - name: Commit updated pet
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update pet"
+          file_pattern: "pet.svg pet-state.json"
