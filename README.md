@@ -3,14 +3,16 @@
 # Hi, I'm Ritviz Aggarwal
 ### Electronics Engineer & Software Developer
 
-*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.*
+*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions. I truly enjoy engineering robust systems from the ground up—whether that means synthesizing custom digital logic gates or architecting intelligent, AI-integrated software solutions.*
 
 <br>
 
-<!-- Virtual Pet Section (GitGotchi) -->
-<a href="https://github.com/marketplace/actions/gitgotchi">
-  <img src="https://raw.githubusercontent.com/Rizz-Vizz/Rizz-Vizz/main/gitgotchi.svg" alt="Virtual Pet" />
-</a>
+<!-- GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizz-Vizz/Rizz-Vizz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizz-Vizz/Rizz-Vizz/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rizz-Vizz/Rizz-Vizz/output/github-snake.svg">
+</picture>
 
 <br><br>
 
@@ -64,10 +66,10 @@
 
 #### PCB Design & Embedded
 * **[stm32f411-dev-board](https://github.com/Rizz-Vizz/stm32f411-dev-board)**: Hardware design files for a custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU, designed in Altium Designer.
-* **[LED-Chaser-PCB-Design](https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design)**: An Altium Designer project for a LED chaser circuit, including full schematic and PCB layout for sequentially flashing LEDs using a 555 Timer.
+* **[LED-Chaser-PCB-Design](https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design)**: A complete Altium Designer project for a classic LED chaser circuit, including full schematic and PCB layout for sequentially flashing LEDs using a 555 Timer.
 
 #### Digital Logic / RTL
-* **[Hardware-Neural-MAC](https://github.com/Rizz-Vizz/Hardware-Neural-MAC)**: A hardware implementation of a Neural Network MAC (Multiply-Accumulate) unit and ReLU activation, built using Verilog logic gates for FPGA synthesis.
+* **[Hardware-Neural-MAC](https://github.com/Rizz-Vizz/Hardware-Neural-MAC)**: A hardware implementation of a Neural Network MAC (Multiply-Accumulate) unit and ReLU activation, built entirely using Verilog logic gates for FPGA synthesis.
 
 <br>
 
