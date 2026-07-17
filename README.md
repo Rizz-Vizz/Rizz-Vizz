@@ -3,11 +3,11 @@
 # Hi, I'm Ritviz Aggarwal
 ### Electronics Engineer & Software Developer
 
-*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions. I truly enjoy engineering robust systems from the ground up—whether that means synthesizing custom digital logic gates or building intelligent, AI-integrated software solutions.*
+*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.*
 
 <br>
 
-<img src="./pet.svg" alt="My Pet" />
+<img src="./pet.svg" alt="Pet" />
 
 </div>
 
@@ -53,24 +53,38 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></h4>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></h3>
       <p>A complete telemedicine platform bridging the gap for rural healthcare. Features AI symptom checking, offline access, and multilingual support.</p>
-      <p><code>TypeScript</code> &nbsp; <code>React Native</code> &nbsp; <code>Supabase</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></h4>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></h3>
       <p>An automated placement cell platform with an AI-powered resume builder. Streamlines hiring with automated scheduling and verification.</p>
-      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Node.js</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></h4>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></h3>
       <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
-      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Supabase</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -78,15 +92,21 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></h4>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></h3>
       <p>See exactly what your installed extensions can access and do. Everything is computed on your device — nothing is ever shared.</p>
-      <p><code>JavaScript</code> &nbsp; <code>Chrome API</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></h4>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></h3>
       <p>The ultimate YouTube study companion. Snap frames, take rich notes, and organize everything completely locally.</p>
-      <p><code>JavaScript</code> &nbsp; <code>Chrome API</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -97,15 +117,23 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></h4>
-      <p>Custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU. Full design lifecycle in Altium Designer.</p>
-      <p><code>Altium Designer</code> &nbsp; <code>STM32</code> &nbsp; <code>ARM Cortex-M4</code></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></h3>
+      <p>Custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU. Full schematic capture, component selection, routing, and manufacturing files.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></h4>
-      <p>Complete Altium Designer project for an LED chaser circuit — full schematic, PCB layout, and manufacturing files using a 555 Timer.</p>
-      <p><code>Altium Designer</code> &nbsp; <code>555 Timer</code> &nbsp; <code>CD4017</code></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></h3>
+      <p>Complete Altium Designer project for a classic LED chaser circuit — full schematic, PCB layout, and manufacturing files using a 555 Timer and CD4017.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/555_Timer-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CD4017-FF6B35?style=flat-square"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -114,15 +142,33 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></h4>
-      <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates for FPGA synthesis.</p>
-      <p><code>Verilog</code> &nbsp; <code>FPGA</code> &nbsp; <code>Yosys</code> &nbsp; <code>Icarus Verilog</code></p>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></h3>
+      <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates without using any built-in operators — synthesized for FPGA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FPGA-0052CC?style=flat-square&logo=intel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Yosys-4A4A4A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NextPNR-4A4A4A?style=flat-square"/>
+      </p>
     </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></h4>
-      <p>Computational environment for rigorous manipulation and visualization of audio waveforms using Fourier transforms and phase vocoding.</p>
-      <p><code>Python</code> &nbsp; <code>DSP</code> &nbsp; <code>Fourier Analysis</code></p>
+  </tr>
+</table>
+
+#### Signal Processing
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></h3>
+      <p>Computational environment for rigorous manipulation and visualization of audio waveforms. Utilizes advanced Fourier transforms and phase vocoding algorithms for real-time spectral modification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DSP-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Fourier_Analysis-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Phase_Vocoding-8B5CF6?style=flat-square"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -131,12 +177,12 @@
 
 <div align="center">
 
-## Sign My Guestbook
+## GitHub Activity
 
-*Came across my profile? Leave a note below.*
-
-<br>
-
-[![Sign Guestbook](https://img.shields.io/badge/-%E2%80%8B%20Sign%20My%20Guestbook%20%E2%80%8B-0f0f1a?style=for-the-badge&color=0f0f1a&labelColor=7aa2f7)](https://github.com/Rizz-Vizz/Rizz-Vizz/issues/new?title=Guestbook+%E2%80%94+%5BYour+Name%5D&body=%23%23+Hi+Ritviz%21%0A%0AI+came+across+your+profile+and+wanted+to+say%3A%0A%0A_Your+message+here_)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="3D Contribution City" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
 
 </div>
