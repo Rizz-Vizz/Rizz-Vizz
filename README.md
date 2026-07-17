@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
       <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
       <p>
@@ -80,6 +80,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
