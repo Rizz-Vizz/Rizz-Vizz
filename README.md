@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## My Toolkit
 
 ### Hardware & EDA Tools
@@ -43,8 +41,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
 ## Featured Projects
 
 ### Software Engineering
@@ -74,6 +70,9 @@
       </p>
     </td>
   </tr>
+  <tr style="border: none; background: transparent;">
+    <td colspan="2" style="padding: 0; border: none;"></td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
@@ -84,7 +83,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top" style="border: none; background: transparent;"></td>
   </tr>
 </table>
 
@@ -173,8 +172,6 @@
   </tr>
 </table>
 
----
-
 <div align="center">
 
 ## GitHub Activity
@@ -186,8 +183,6 @@
 </picture>
 
 </div>
-
----
 
 <div align="center">
 
