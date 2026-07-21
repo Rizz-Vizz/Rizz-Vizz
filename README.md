@@ -7,7 +7,8 @@
 </picture>
 
 
-*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.*
+*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.
+Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to execute cross-compiled C programs on FPGA hardware.*
 
 > *Beyond the world of engineering and code, I am also a published author and a poet.*
 
