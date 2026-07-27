@@ -157,7 +157,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
     </td>
     <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/riscv-rv32i-core">riscv-rv32i-core</a></b></h2>
-      <p>A custom 32-bit RISC-V (RV32I) processor designed from the ground up. Features a single-cycle datapath, custom testbenches, and bare-metal C code execution capabilities.</p>
+      <p>A minimal, single-cycle RISC-V RV32I CPU core built in Verilog, capable of executing bare-metal C code and featuring a complete self-checking testbench</p>
       <p>
         <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
         <img src="https://img.shields.io/badge/RISC--V-231F20?style=flat-square&logo=riscv&logoColor=white"/>
