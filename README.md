@@ -144,7 +144,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></b></h2>
       <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates without using any built-in operators — synthesized for FPGA.</p>
       <p>
@@ -153,6 +153,16 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
         <img src="https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=flat-square"/>
         <img src="https://img.shields.io/badge/Yosys-4A4A4A?style=flat-square"/>
         <img src="https://img.shields.io/badge/NextPNR-4A4A4A?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2><b><a href="https://github.com/Rizz-Vizz/riscv-rv32i-core">riscv-rv32i-core</a></b></h2>
+      <p>A custom 32-bit RISC-V (RV32I) processor designed from the ground up. Features a single-cycle datapath, custom testbenches, and bare-metal C code execution capabilities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RISC--V-231F20?style=flat-square&logo=riscv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       </p>
     </td>
   </tr>
