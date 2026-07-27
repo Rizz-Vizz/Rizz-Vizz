@@ -96,7 +96,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
   <tr>
     <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></b></h2>
-      <p>See exactly what your installed extensions can access and do. Everything is computed on your device — nothing is ever shared.</p>
+      <p>See exactly what your installed extensions can access and do. Everything is computed on your device and nothing is ever shared.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
@@ -146,7 +146,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
   <tr>
     <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></b></h2>
-      <p>Hardware implementation of a Neural Network MAC unit and ReLU activation, built entirely from Verilog logic gates without using any built-in operators — synthesized for FPGA.</p>
+      <p>A hardware implementation of a Neural Network MAC (Multiply-Accumulate) unit and ReLU activation, built using Verilog logic gates for FPGA synthesis.</p>
       <p>
         <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
         <img src="https://img.shields.io/badge/FPGA-0052CC?style=flat-square&logo=intel&logoColor=white"/>
