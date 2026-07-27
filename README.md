@@ -19,6 +19,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
 ### Hardware & EDA Tools
 
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-231F20?style=for-the-badge&logo=riscv&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0052CC?style=for-the-badge&logo=intel&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5C85A?style=for-the-badge&logo=altium&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -26,6 +27,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-4A4A4A?style=for-the-badge)
 ![NextPNR](https://img.shields.io/badge/NextPNR-4A4A4A?style=for-the-badge)
+![Tina TI](https://img.shields.io/badge/Tina_TI-FF0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
 
 ### Languages
 
