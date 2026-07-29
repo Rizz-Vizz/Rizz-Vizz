@@ -19,6 +19,7 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
 ### Hardware & EDA Tools
 
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-231F20?style=for-the-badge&logo=riscv&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0052CC?style=for-the-badge&logo=intel&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5C85A?style=for-the-badge&logo=altium&logoColor=white)
