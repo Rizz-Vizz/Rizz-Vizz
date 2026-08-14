@@ -89,7 +89,15 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top" style="border: none; background: transparent;"></td>
+    <td width="50%" valign="top">
+      <h2><b><a href="https://github.com/Rizz-Vizz/auto-architect">auto-architect</a></b></h2>
+      <p>AI tool that turns plain English descriptions into visual architecture diagrams and valid YAML deployment pipelines instantly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+    </td>
   </tr>
 </table>
 
