@@ -56,13 +56,12 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/Nabha-Sihata">Nabha-Sihata</a></b></h2>
-      <p>A complete telemedicine platform bridging the gap for rural healthcare. Features AI symptom checking, offline access, and multilingual support.</p>
+      <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
+      <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -81,15 +80,6 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
-      <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h2><b><a href="https://github.com/Rizz-Vizz/auto-architect">auto-architect</a></b></h2>
       <p>AI tool that turns plain English descriptions into visual architecture diagrams and valid YAML deployment pipelines instantly. Fully deployed on Zerops.</p>
       <p>
@@ -97,6 +87,9 @@ Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to exe
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty cell to balance the grid -->
     </td>
   </tr>
 </table>
