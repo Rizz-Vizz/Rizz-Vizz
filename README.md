@@ -104,12 +104,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/KLArity-Semicon-Restoration-">KLArity-Semicon-Restoration</a></b></h2>
-      <p>Robust CNN-based deep learning pipeline for restoring highly degraded semiconductor images, implementing structural similarity optimizations.</p>
+      <h2><b><a href="https://github.com/Rizz-Vizz/kutumbh-care">Kutumbh Care</a></b></h2>
+      <p>Predictive AI Health Ecosystem using Time-Series Anomaly Detection to shift medical paradigms from reactive care to early intervention.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -134,6 +134,25 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
       </p>
+    </td>
+  </tr>
+</table>
+
+#### AI & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2><b><a href="https://github.com/Rizz-Vizz/KLArity-Semicon-Restoration-">KLArity-Semicon-Restoration</a></b></h2>
+      <p>Robust CNN-based deep learning pipeline for restoring highly degraded semiconductor images, implementing structural similarity optimizations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty cell to balance the grid -->
     </td>
   </tr>
 </table>
