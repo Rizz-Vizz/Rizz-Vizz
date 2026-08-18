@@ -7,14 +7,29 @@
 </picture>
 
 
-*I am an electronics engineer and full-stack developer specializing in both low-level hardware design and modern software architectures. My expertise spans RTL design for FPGAs, multi-layer PCB routing, and the development of scalable web platforms and browser extensions.
-Currently Building a single-cycle RISC-V CPU core from scratch in Verilog to execute cross-compiled C programs on FPGA hardware.*
+*I am an electronics engineer focused on high-performance systems, Linux concurrency, and AI safety research. My technical background spans from bare-metal RTL design and FPGA synthesis to system-level C/C++ programming and GPU resource management (CUDA/NVML).* 
+
+*Currently, my research interests involve analyzing lock contention in distributed GPU environments (HAMi-core) and exploring verifiable safety and mechanistic interpretability in deep learning pipelines.*
 
 > *Beyond the world of engineering and code, I am also a published author and a poet.*
 
 </div>
 
 ## My Toolkit
+
+### Systems & High-Performance Compute
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![POSIX Threads](https://img.shields.io/badge/pthreads-000000?style=for-the-badge)
+![GCC](https://img.shields.io/badge/GCC/GDB-FF3333?style=for-the-badge)
+
+### AI & Research
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Mechanistic Interpretability](https://img.shields.io/badge/Interpretability-4B0082?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Hardware & EDA Tools
 
