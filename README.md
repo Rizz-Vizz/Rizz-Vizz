@@ -9,7 +9,7 @@
 
 *I am an electronics engineer focused on high-performance systems, Linux concurrency, and AI safety research. My technical background spans from bare-metal RTL design and FPGA synthesis to system-level C/C++ programming and GPU resource management (CUDA/NVML).* 
 
-*Currently, my research interests involve analyzing lock contention in distributed GPU environments (HAMi-core) and exploring verifiable safety and mechanistic interpretability in deep learning pipelines.*
+*Currently, my research interests involve analyzing lock contention in distributed GPU environments and exploring verifiable safety and mechanistic interpretability in deep learning pipelines.*
 
 > *Beyond the world of engineering and code, I am also a published author and a poet.*
 
