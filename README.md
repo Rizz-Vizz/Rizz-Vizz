@@ -7,10 +7,13 @@
 </picture>
 
 
-*I am an electronics engineer focused on high-performance systems, Linux concurrency, and AI safety research. My technical background spans from bare-metal RTL design and FPGA synthesis to system-level C/C++ programming and GPU resource management (CUDA/NVML).* 
+<b><i>I am an Electronics and Instrumentation Engineering student specializing in digital hardware and embedded systems. My technical work is focused on physical systems. I design printed circuit boards in Altium, write bare metal C firmware, and synthesize RTL for FPGAs.
+
+Recently, I designed a custom STM32 development board and built a complete RISC-V processor in Verilog. I care about how code executes on physical silicon. I spend my time resolving pipeline stalls, analyzing timing constraints, and debugging signals using logic analyzers and cycle accurate simulators. I am currently looking for roles in embedded systems, PCB design, VLSI, and digital hardware.
+
+Outside of engineering, I write poetry and am a published author</i></b>
 
 
-> *Beyond the world of engineering and code, I am also a published author and a poet.*
 
 </div>
 
