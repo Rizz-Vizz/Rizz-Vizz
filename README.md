@@ -19,20 +19,6 @@ Outside of engineering, I write poetry and am a published author</i></b>
 
 ## My Toolkit
 
-### Systems & High-Performance Compute
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![POSIX Threads](https://img.shields.io/badge/pthreads-000000?style=for-the-badge)
-![GCC](https://img.shields.io/badge/GCC/GDB-FF3333?style=for-the-badge)
-
-### AI & Research
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Mechanistic Interpretability](https://img.shields.io/badge/Interpretability-4B0082?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ### Hardware & EDA Tools
 
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white)
@@ -63,6 +49,12 @@ Outside of engineering, I write poetry and am a published author</i></b>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI & Research
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Mechanistic Interpretability](https://img.shields.io/badge/Interpretability-4B0082?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Featured Projects
 
