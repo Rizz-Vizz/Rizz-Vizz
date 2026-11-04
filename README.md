@@ -1,21 +1,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Software+Developer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Software+Developer">
-  <img alt="Hi, I'm Ritviz Aggarwal" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Software+Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Embedded+and+Digital+Hardware">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Embedded+and+Digital+Hardware">
+  <img alt="Hi, I'm Ritviz Aggarwal" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ritviz+Aggarwal;Electronics+Engineer;Embedded+and+Digital+Hardware">
 </picture>
 
-
-<b><i>I am an Electronics and Instrumentation Engineering student specializing in digital hardware and embedded systems. My technical work is focused on physical systems. I design printed circuit boards in Altium, write bare metal C firmware, and synthesize RTL for FPGAs.
-
-Recently, I designed a custom STM32 development board and built a complete RISC-V processor in Verilog. I care about how code executes on physical silicon. I spend my time resolving pipeline stalls, analyzing timing constraints, and debugging signals using logic analyzers and cycle accurate simulators. I am currently looking for roles in embedded systems, PCB design, VLSI, and digital hardware.
-
-Outside of engineering, I write poetry and am a published author</i></b>
-
-
-
 </div>
+
+I am an Electronics and Instrumentation Engineering student focused on digital hardware and embedded systems. I design printed circuit boards in Altium, write bare metal C firmware, and build digital logic in Verilog.
+
+I like working close to the hardware: bringing up power rails, debugging buses with an oscilloscope and a logic analyzer, and finding timing problems in simulation. Recently I designed a custom STM32 development board, built a RISC-V processor in Verilog, and turned an NXP FRDM-MCXN236 board into a tilt controlled USB mouse with a Python tuning dashboard.
+
+Alongside projects, I am building lab material for junior engineering students on the ASLKv2010 analog system lab kit.
 
 ## My Toolkit
 
@@ -28,6 +25,9 @@ Outside of engineering, I write poetry and am a published author</i></b>
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5C85A?style=for-the-badge&logo=altium&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex-M4](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ARM Cortex-M33](https://img.shields.io/badge/ARM_Cortex--M33-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![NXP MCUXpresso](https://img.shields.io/badge/NXP_MCUXpresso-0E5AA7?style=for-the-badge)
+![USB HID](https://img.shields.io/badge/USB_HID-4A4A4A?style=for-the-badge)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-4A4A4A?style=for-the-badge)
 ![NextPNR](https://img.shields.io/badge/NextPNR-4A4A4A?style=for-the-badge)
@@ -38,191 +38,26 @@ Outside of engineering, I write poetry and am a published author</i></b>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### AI & Research
+### Research & Tooling
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Mechanistic Interpretability](https://img.shields.io/badge/Interpretability-4B0082?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Hardware projects
 
-## Featured Projects
+| Project | What it is | Tools |
+|---|---|---|
+| [STM32F411 development board](https://github.com/Rizz-Vizz/stm32f411-dev-board) | Custom 4 layer board with an MPU-6050 IMU. I did the schematic, layout and manufacturing files, then brought up the power rails and wrote bare metal C for I2C communication with the IMU. | Altium Designer, STM32F411, ARM Cortex-M4, C |
+| [RISC-V RV32I core](https://github.com/Rizz-Vizz/riscv-rv32i-core) | Single cycle processor with all 47 base instructions, memory mapped UART and GPIO, and a toolchain that runs compiled C programs. Timing problems were found in GTKWave. | Verilog, Icarus Verilog, GTKWave, C |
+| [Tilt air mouse](https://github.com/Rizz-Vizz/tilt-air-mouse-mcxn236) | USB HID mouse on an NXP FRDM-MCXN236. Reads an I2C accelerometer, filters it, and turns tilt into cursor movement. A Python dashboard tunes it live. Measured 0 px idle drift and 30 of 30 clicks recognised. | C, ARM Cortex-M33, I2C, USB HID, UART, Python |
+| [Hardware neural MAC unit](https://github.com/Rizz-Vizz/Hardware-Neural-MAC) | Multiply accumulate unit and ReLU built from Verilog logic, synthesised and routed for an FPGA and checked with testbenches. | Verilog, Yosys, NextPNR, Icarus Verilog |
+| [LED chaser PCB](https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design) | Full Altium flow for a 555 timer and CD4017 circuit: schematic, layout, design rule checks and Gerber files. | Altium Designer |
+| [Semiconductor image restoration](https://github.com/Rizz-Vizz/KLArity-Semicon-Restoration-) | Deep learning pipeline that restores degraded semiconductor images, reaching 29.1 dB PSNR. Top placement at the SEMICON India KLA Hackathon. | PyTorch, Python, OpenCV |
+| [DSP platform](https://github.com/Rizz-Vizz/dsp-platform) | Real time audio analysis and modification using Fourier analysis, STFT and phase vocoding. [Live demo](https://kymatics.streamlit.app/) | Python |
 
-### Software Engineering
+My web, app and AI projects are on my [portfolio](https://ritviz.netlify.app/).
 
-#### Web & App Platforms
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/StockSwap">StockSwap</a></b></h2>
-      <p>A B2B platform helping shopkeepers trade and liquidate dead inventory through hyperlocal swaps and discounted sales.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/Campusthan">Campusthan</a></b></h2>
-      <p>An automated placement cell platform with an AI-powered resume builder. Streamlines hiring with automated scheduling and verification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr style="border: none; background: transparent;">
-    <td colspan="2" style="padding: 0; border: none;"></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/auto-architect">auto-architect</a></b></h2>
-      <p>AI tool that turns plain English descriptions into visual architecture diagrams and valid YAML deployment pipelines instantly. Fully deployed on Zerops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/kutumbh-care">Kutumbh Care</a></b></h2>
-      <p>Predictive AI Health Ecosystem using Time-Series Anomaly Detection to shift medical paradigms from reactive care to early intervention.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-#### Chrome Extensions
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/privacy-xray">privacy-xray</a></b></h2>
-      <p>See exactly what your installed extensions can access and do. Everything is computed on your device and nothing is ever shared.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/StudySnap-Pro">StudySnap-Pro</a></b></h2>
-      <p>The ultimate YouTube study companion. Snap frames, take rich notes, and organize everything completely locally.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-#### AI & Research
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/KLArity-Semicon-Restoration-">KLArity-Semicon-Restoration</a></b></h2>
-      <p>Robust CNN-based deep learning pipeline for restoring highly degraded semiconductor images, implementing structural similarity optimizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty cell to balance the grid -->
-    </td>
-  </tr>
-</table>
-
-### Hardware Engineering
-
-#### PCB Design & Embedded Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/stm32f411-dev-board">stm32f411-dev-board</a></b></h2>
-      <p>Custom 4-layer STM32F411 development board with an integrated MPU-6050 IMU. Full schematic capture, component selection, routing, and manufacturing files.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/LED-Chaser-PCB-Design">LED-Chaser-PCB-Design</a></b></h2>
-      <p>Complete Altium Designer project for a classic LED chaser circuit — full schematic, PCB layout, and manufacturing files using a 555 Timer and CD4017.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Altium_Designer-A5C85A?style=flat-square&logo=altium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/555_Timer-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CD4017-FF6B35?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-#### Digital Logic / RTL
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/Hardware-Neural-MAC">Hardware-Neural-MAC</a></b></h2>
-      <p>A hardware implementation of a Neural Network MAC (Multiply-Accumulate) unit and ReLU activation, built using Verilog logic gates for FPGA synthesis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FPGA-0052CC?style=flat-square&logo=intel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Yosys-4A4A4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/NextPNR-4A4A4A?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/riscv-rv32i-core">riscv-rv32i-core</a></b></h2>
-      <p>A minimal, single-cycle RISC-V RV32I CPU core built in Verilog, capable of executing bare-metal C code and featuring a complete self-checking testbench</p>
-      <p>
-        <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RISC--V-231F20?style=flat-square&logo=riscv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-#### Signal Processing
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h2><b><a href="https://github.com/Rizz-Vizz/dsp-platform">dsp-platform</a></b></h2>
-      <p>Computational environment for rigorous manipulation and visualization of audio waveforms. Utilizes advanced Fourier transforms and phase vocoding algorithms for real-time spectral modification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DSP-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Fourier_Analysis-8B5CF6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Phase_Vocoding-8B5CF6?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
+<!-- 3D chart is off. To turn it on, delete this first line and the matching last line of this block.
 <div align="center">
 
 ## GitHub Activity
@@ -234,6 +69,7 @@ Outside of engineering, I write poetry and am a published author</i></b>
 </picture>
 
 </div>
+-->
 
 <div align="center">
 
