@@ -10,7 +10,7 @@
 
 I am an Electronics and Instrumentation Engineering student focused on digital hardware and embedded systems. I design printed circuit boards in Altium, write bare metal C firmware, and build digital logic in Verilog.
 
-I like working close to the hardware: bringing up power rails, debugging buses with an oscilloscope and a logic analyzer, and finding timing problems in simulation. Recently I designed a custom STM32 development board, built a RISC-V processor in Verilog, and turned an NXP FRDM-MCXN236 board into a tilt controlled USB mouse with a Python tuning dashboard.
+I like working close to the hardware: bringing up power rails, debugging buses with an oscilloscope and a logic analyzer, and finding timing problems in simulation. Recently I built an autonomous local-first smart home hub on the NXP FRDM-MCXN236 using FreeRTOS, designed a custom STM32 development board, built a RISC-V processor in Verilog, and turned an NXP board into a tilt controlled USB mouse with a Python tuning dashboard.
 
 Alongside projects, I am building lab material for junior engineering students on the ASLKv2010 analog system lab kit.
 
@@ -27,6 +27,7 @@ Alongside projects, I am building lab material for junior engineering students o
 ![ARM Cortex-M4](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![ARM Cortex-M33](https://img.shields.io/badge/ARM_Cortex--M33-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![NXP MCUXpresso](https://img.shields.io/badge/NXP_MCUXpresso-0E5AA7?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-16a34a?style=for-the-badge&logo=freertos&logoColor=white)
 ![USB HID](https://img.shields.io/badge/USB_HID-4A4A4A?style=for-the-badge)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4A4A4A?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-4A4A4A?style=for-the-badge)
@@ -47,6 +48,7 @@ Alongside projects, I am building lab material for junior engineering students o
 
 | Project | What it is | Tools |
 |---|---|---|
+| [Home Automation](https://github.com/Rizz-Vizz/Home-Automation) | Local-first autonomous smart home and energy hub on an NXP FRDM-MCXN236 with FreeRTOS. Features hardware PWM lighting, PDM mic sound tracking, and a cryptographic SHA-256 audit log in external SPI flash with offline edge resilience. | C, FreeRTOS, NXP MCXN236, ARM Cortex-M33, SPI Flash, Node.js, React |
 | [STM32F411 development board](https://github.com/Rizz-Vizz/stm32f411-dev-board) | Custom 4 layer board with an MPU-6050 IMU. I did the schematic, layout and manufacturing files, then brought up the power rails and wrote bare metal C for I2C communication with the IMU. | Altium Designer, STM32F411, ARM Cortex-M4, C |
 | [RISC-V RV32I core](https://github.com/Rizz-Vizz/riscv-rv32i-core) | Single cycle processor with all 47 base instructions, memory mapped UART and GPIO, and a toolchain that runs compiled C programs. Timing problems were found in GTKWave. | Verilog, Icarus Verilog, GTKWave, C |
 | [Tilt air mouse](https://github.com/Rizz-Vizz/tilt-air-mouse-mcxn236) | USB HID mouse on an NXP FRDM-MCXN236. Reads an I2C accelerometer, filters it, and turns tilt into cursor movement. A Python dashboard tunes it live. Measured 0 px idle drift and 30 of 30 clicks recognised. | C, ARM Cortex-M33, I2C, USB HID, UART, Python |
